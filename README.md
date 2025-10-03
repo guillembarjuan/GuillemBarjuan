@@ -8,7 +8,7 @@ Sóc un **estudiant de Sistemes Microinformàtics i Xarxes** apassionat per la t
 ## 🧠 Sobre mi
 
 - 📍 Mataró, Catalunya (Espanya)  
-- 🎓 Estudiant de Grau Mitjà de **Tècnic en Sistemes Microinformàtics i Xarxes** a l’Escola Pia Santa Anna Mataró (2024 – actualitat)  
+- 🎓 Estudiant de Grau Mitjà de **Tècnic en Sistemes Microinformàtics i Xarxes** a l’Escola Pia Santa Anna Mataró (2025 – actualitat)  
 - 🌐 Nivell d’anglès: B1  
 - 💡 Em considero una persona **emprenedora, positiva i organitzada**, amb ganes de créixer personalment i professionalment.  
 - ⚽ Fora de l’àmbit acadèmic, practico futbol, una activitat que m’ha ajudat a desenvolupar el **treball en equip i la disciplina**.  
@@ -41,8 +41,8 @@ L’objectiu és desenvolupar una **solució tècnica funcional i ben documentad
 ## 📫 Contacte
 
 Si vols contactar amb mi, pots fer-ho a través de:  
-- ✉️ **Email:** guillembarjuana@gmail.com  
-- 📞 **Telèfon:** +34 625 55 58 64
+- ✉️ **Email:** guillem.barjuan@mataro.epiaedu.cat
+- 📞 **Telèfon:** +34 123 45 56 78
 
 ---
 
