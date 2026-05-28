@@ -1,59 +1,83 @@
-# 👋 Hola! Soc **Guillem Barjuan**
+# 👋 Hola, soc **Guillem Barjuan Alonso**
 
-Benvingut al meu repositori 👨‍💻  
-Sóc un **estudiant de Sistemes Microinformàtics i Xarxes** apassionat per la tecnologia, la programació i el món digital. M'agrada resoldre problemes tècnics, crear noves idees i aprendre constantment per millorar les meves habilitats.
-
----
-
-## 🧠 Sobre mi
-
-- 📍 Mataró, Catalunya (Espanya)  
-- 🎓 Estudiant de Grau Mitjà de **Tècnic en Sistemes Microinformàtics i Xarxes** a l’Escola Pia Santa Anna Mataró (2025 – actualitat)  
-- 🌐 Nivell d’anglès: B1  
-- 💡 Em considero una persona **emprenedora, positiva i organitzada**, amb ganes de créixer personalment i professionalment.  
-- ⚽ Fora de l’àmbit acadèmic, practico futbol, una activitat que m’ha ajudat a desenvolupar el **treball en equip i la disciplina**.  
-- 🧰 Actualment aprenent **Python** de manera autodidacta.
+Benvingut/da al meu perfil de GitHub.  
+Sóc un **tècnic en Sistemes Microinformàtics i Xarxes** amb interès per la tecnologia, la programació i la intel·ligència artificial.
 
 ---
 
-## 🛠️ Habilitats principals
+## 🧑‍💻 Qui sóc?
 
-- 💻 Muntatge i manteniment d’ordinadors  
-- 🧭 Sistemes operatius (Windows, Linux)  
-- 🌐 Xarxes locals i configuració bàsica  
-- 📝 Aplicacions ofimàtiques i web  
-- 🤝 Comunicació i treball en equip  
-- 🧠 Creativitat, paciència i resolució de problemes tècnics
+- 📍 **Mataró** (Catalunya)
+- 🎓 **Grau Mitjà SMX** – Escola Pia Santa Anna (2024 – 2026)
+- 🌍 **Erasmus+** a Xipre – Departament IT d’una empresa local
+- 💼 Pràctiques professionals a **Intermega** (software de gestió empresarial)
+- 🧠 Aprenent **Python** i **automatització amb IA** de manera autodidacta
+- ⚽ Futbol – treball en equip i disciplina
 
----
-
-## 🌟 Projecte actual
-
-### 📌 **Nom del projecte:** *EverPia*
-
-Aquest repositori forma part d’un projecte en el qual estic treballant per **aplicar els coneixements apresos en el cicle formatiu**.  
-L’objectiu és desenvolupar una **solució tècnica funcional i ben documentada**, utilitzant bones pràctiques i eines modernes.
-
-> ✨ El projecte és una oportunitat per mostrar el meu progrés com a futur tècnic en informàtica i aprendre a treballar amb Git i GitHub de manera professional.
+Sóc una persona **responsable, proactiva i amb molta motivació** per créixer en el món de la tecnologia.
 
 ---
 
-## 📫 Contacte
+## 📄 Currículum resumit
 
-Si vols contactar amb mi, pots fer-ho a través de:  
-- ✉️ **Email:** guillem.barjuan@mataro.epiaedu.cat
-- 📞 **Telèfon:** +34 123 45 56 78
+### Estudis
+| Període | Titulació | Centre |
+|---------|-----------|--------|
+| 2020 – 2024 | Educació Secundària Obligatòria | Escola Pia Santa Anna |
+| 2024 – 2026 | Grau Mitjà SMX | Escola Pia Santa Anna |
+
+**Competències tècniques adquirides:**
+- Instal·lació i manteniment de SO (Windows, Linux)
+- Configuració de xarxes i serveis
+- Resolució d’incidències hardware/software
+- Programació bàsica en Python
+
+### Experiència professional
+
+**Intermega** – Empresa de desenvolupament de software de gestió empresarial  
+*Període: 01/07/2025 – 17/12/2025*  
+- Suport tècnic intern i a clients  
+- Resolució d’incidències reportades  
+- Col·laboració amb l’equip tècnic  
+
+**Erasmus+ a Xipre** – Departament IT d’una empresa local  
+*Període: 17/05/2025 – 11/06/2025*  
+- Suport tècnic a usuaris (incidències de software i hardware)  
+- Comunicació en anglès en entorn professional  
+- Adaptació a un nou entorn laboral estranger  
+
+### Idiomes
+- Castellà – Nadiu  
+- Català – Nadiu  
+- Anglès – B1
+
+### Habilitats personals
+✅ Aprenentatge ràpid  
+✅ Responsabilitat i compromís  
+✅ Treball en equip  
+✅ Adaptabilitat  
+✅ Actitud positiva
 
 ---
 
-## 📝 Idiomes
+## 🛠️ Habilitats tècniques
 
-- 🇪🇸 Castellà — Nadiu  
-- 🏴 Anglès — B1  
-- 🟡 Català — Nadiu
+- Sistemes operatius: Windows i Linux
+- Suport i manteniment informàtic
+- Resolució d’incidències tècniques
+- Coneixements bàsics de xarxes
+- Programació bàsica en Python
+- Automatització de processos amb intel·ligència artificial (en aprenentatge)
 
 ---
 
-## 📌 Estat actual
+## 📬 Contacte
 
-> 🧑‍🎓 Estudiant motivat a seguir creixent en el món de la informàtica i preparant-me per a oportunitats professionals i projectes internacionals (com Erasmus).
+- 📧 **guillembarjuana@gmail.com**  
+- 📞 **+34 625 55 58 64**  
+- 💻 [GitHub – guillembarjuan](https://github.com/guillembarjuan)
+
+---
+
+*Última actualització: maig 2026*
+- 
