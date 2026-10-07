@@ -12,6 +12,7 @@ Sóc tècnic en **Sistemes Microinformàtics i Xarxes** i actualment estudio **D
 - 🎓 **Grau Mitjà SMX** – Escola Pia Santa Anna (2024 – 2026, finalitzat)
 - 💼 **Tècnic a mitja jornada** a **Intermega** (software de gestió empresarial), on vaig fer les pràctiques i em van contractar
 - 🌍 **Erasmus+** a Xipre – Departament IT d'una empresa local
+- ☕ Aprenent **Java** al CFGS DAM
 - 🧠 Aprenent **Python** i **automatització amb IA** de manera autodidacta
 - ⚽ Futbol – treball en equip i disciplina
 
@@ -70,8 +71,56 @@ Sóc una persona **responsable, proactiva i amb molta motivació** per créixer 
 - Resolució d'incidències tècniques
 - Coneixements de xarxes
 - Programació en Python
+- Programació en Java (en aprenentatge)
 - Desenvolupament d'aplicacions (en formació, CFGS DAM)
 - Automatització de processos amb intel·ligència artificial (en aprenentatge)
+
+---
+
+## ✨ Funcionalitats del portfoli
+
+- **Presentació personal** clara: qui sóc, on estudio i on treballo
+- **Currículum resumit** amb estudis, experiència i idiomes
+- *Habilitats tècniques i personals* organitzades per seccions
+- Document escrit amb **Markdown** i visible directament a GitHub
+- Informació de **contacte** i enllaç al perfil de GitHub
+
+---
+
+## ✅ Tasques
+
+- [x] Crear el repositori del perfil a GitHub
+- [x] Actualitzar estudis i experiència professional
+- [ ] Afegir els projectes destacats
+- [ ] Convertir el portfoli en el meu CV professional
+
+---
+
+## ⚙️ Instal·lació
+
+Per treballar amb aquest portfoli en local:
+
+1. Clona el repositori: `git clone https://github.com/guillembarjuan/guillembarjuan.git`
+2. Obre la carpeta del projecte amb **Visual Studio** i edita el fitxer `README.md`
+3. Fes `git add`, `git commit` i `git push` per pujar els canvis a GitHub
+
+---
+
+## 💻 Exemple de codi
+
+Un petit exemple en Java, el llenguatge que estic aprenent:
+
+```java
+public class Presentacio {
+    public static String presentacio(String nom, String ciutat) {
+        return "Hola, soc " + nom + " i visc a " + ciutat + ".";
+    }
+
+    public static void main(String[] args) {
+        System.out.println(presentacio("Guillem", "Mataró"));
+    }
+}
+```
 
 ---
 
